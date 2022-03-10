@@ -7,7 +7,7 @@ phases:
     commands:
       - npm install
       - pwd
-    run-as: ubuntu
+    run-as: root
 
 artifacts:
   files:
