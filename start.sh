@@ -1,1 +1,1 @@
-pwd>/home/ubuntu/location
+pwd>/home/ubuntu/build/log
